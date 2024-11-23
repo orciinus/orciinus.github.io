@@ -28,4 +28,4 @@ Kallis had been the sole person willing to stand by his side since childhood, so
 
 ## Volume 1
 
-- Prologue
+- [Prologue](https://orciinus.github.io/2024/11/23/OS-Prologue.html)

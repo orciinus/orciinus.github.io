@@ -52,8 +52,8 @@ Naturally, Kallis expected him to grow angry, to laugh at him, and to ignore him
  
 Lideryle’s eyes soon fluttered shut, cutting off any chance of reading the emotions that had been lingering in those blue depths.
 
----
+<br/><br/>
 
-translator comment:
+**translator comment:**
 
 sometimes I feel insane because guess who did the translation for the other two novels by this author? yeah, that's right, me

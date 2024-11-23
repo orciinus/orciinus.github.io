@@ -3,7 +3,6 @@ layout: page
 title: OS
 ---
 
-> [!TIP]
 > You can support the author by purchasing the raws [here](https://ridibooks.com/books/297027387)
 
 Prince Lideryle, the fourth heir to the throne of Vernya, is a man with little more than a pretty face and a vile personality.

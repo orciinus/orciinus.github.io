@@ -1,5 +1,5 @@
-Here you can say lots of fun things about your site.
+translations done by urs truly
 
-Maybe say a some things about yourself.
+pls don't reupload or share on social media (especially twitter or tiktok) i'd like to ask that you don't make any epubs either thanks
 
-Or maybe what you plan to blog about.
+pls always support the original authors

@@ -20,7 +20,7 @@ description: "i do my best" # This will show up in places like twitter, linkedin
 #########################################################################################
 theme: "minima"
 
-rss: rss
+# rss: rss
 
 kramdown:
   syntax_highlighter_opts:

@@ -22,7 +22,9 @@ Kallis had been the sole person willing to stand by his side since childhood, so
 
 
 1. A period (during the year) when hunting restrictions are lifted
-3. A situation that allows (a particular group) to be criticised freely
+2. A situation that allows (a particular group) to be criticised freely
+
+---
 
 ## Volume 1
 
